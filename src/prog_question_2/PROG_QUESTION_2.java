@@ -12,7 +12,15 @@ import java.util.Scanner;
  * @author karan
  */
 
-//Refer to the pdf file for senario explination
+  /*
+           Senario explination : 
+          
+          A user that supports a hockey team may want to know certain statistics and generate reports
+          with those statistics. This program will allow users to enter certain information about thier team and 
+          the information that they enter will be used to generate reports about the hockey they support.
+          
+          
+    */
 
 //--year one - bacd-group 2
 //Student number : ST10256361
