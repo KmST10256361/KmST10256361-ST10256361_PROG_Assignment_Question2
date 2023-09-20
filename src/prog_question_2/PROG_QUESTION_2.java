@@ -12,6 +12,8 @@ import java.util.Scanner;
  * @author karan
  */
 
+//Refer to the pdf file for senario explination
+
 //--year one - bacd-group 2
 //Student number : ST10256361
 //Full name : Karan Moodley 
