@@ -17,7 +17,8 @@ import java.util.Scanner;
           
           A user that supports a hockey team may want to know certain statistics and generate reports
           with those statistics. This program will allow users to enter certain information about thier team and 
-          the information that they enter will be used to generate reports about the hockey they support.
+          the information that they enter will be used to generate reports about the hockey team they support.
+          This can include finances , goals , points or even fouls that the players on the team had collected
           
           
     */
